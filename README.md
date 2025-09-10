@@ -1,8 +1,17 @@
-<!-- 🚀 GitHub Profile - Dark Hacker Style -->
+<!-- 🚀 GitHub Profile - HuyPc01 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=👾+HuyPC+%7C+Cyber+Explorer;Reverse+Engineer+%7C+Bug+Hunter+%7C+Pentester;⚡+Cyber+Samurai+%7C+Ghost+in+the+Net" alt="Typing SVG" />
-</h1>
+<h1 align="center">🌑 HuyPC | Cyber Explorer</h1>
+<p align="center">
+  <em>"Even in darkness, I move silently..."</em>
+</p>
+
+---
+
+### 🖥️ Dark Background
+<p align="center">
+  <!-- GIF nền Itachi đen tối -->
+  <img src="https://media.tenor.com/jDtdQXcYtKIAAAAC/itachi-uchiha.gif" width="100%" alt="itachi background"/>
+</p>
 
 ---
 
@@ -26,22 +35,15 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/firstsuii111222/firstsuii111222/blob/output/snake.svg" alt="snake"/>
-</p>
-
----
-
 ### 🕶️ Hacker Vibes
 ```bash
 > whoami
 HuyPC - Reverse Engineer | Bug Hunter | Pentester
 
 > system.status
-[■■■■■■■■■■■■■■■■■■■■■■■] 100% 
+███████████████████████████ 100%
 Status: Online | Undetected
 
-> accessing.darknet...
-Connection established ✓
-Identity: Anonymous
+> activating.sharingan...
+[✔] Mangekyō Sharingan unleashed
+[✔] Illusions deployed

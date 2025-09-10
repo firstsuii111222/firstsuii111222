@@ -10,7 +10,7 @@
 ### 🖥️ Dark Background
 <p align="center">
   <!-- GIF nền Itachi đen tối -->
-  <img src="https://media.tenor.com/jDtdQXcYtKIAAAAC/itachi-uchiha.gif" width="100%" alt="itachi background"/>
+  <img src="https://i.imgur.com/bU6xXYt.gif" width="100%" alt="itachi background"/>
 </p>
 
 ---

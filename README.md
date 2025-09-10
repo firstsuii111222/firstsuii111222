@@ -6,13 +6,6 @@
 
 ---
 
-### 🖥️ Matrix Background
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="800" />
-</p>
-
----
-
 ### 🧩 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-0d1117?logo=python&logoColor=ffdd54" />
@@ -35,7 +28,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/firstsuii111222/firstsuii111222/blob/output/snake.svg" alt="snake"/>
 </p>
 
 ---

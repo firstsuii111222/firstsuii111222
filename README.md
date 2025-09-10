@@ -6,6 +6,13 @@
 
 ---
 
+### 🖥️ Matrix Background
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="800" />
+</p>
+
+---
+
 ### 🧩 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-0d1117?logo=python&logoColor=ffdd54" />

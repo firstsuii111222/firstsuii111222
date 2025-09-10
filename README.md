@@ -1,12 +1,8 @@
+<!-- 🚀 GitHub Profile - Dark Hacker Style -->
 
-
-<!--
-**firstsuii111222/firstsuii111222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub<!-- 🚀 GitHub Profile - Dark Hacker Style -->
-
-<h1 align="center">👾 HuyPC | Cyber Explorer</h1>
-<p align="center">
-  <em>"In code we trust. In silence we move."</em>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=👾+HuyPC+%7C+Cyber+Explorer;Reverse+Engineer+%7C+Bug+Hunter+%7C+Pentester;In+Code+We+Trust.+In+Silence+We+Move." alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -33,16 +29,12 @@
 ### 🕶️ Hacker Vibes
 ```bash
 > whoami
-HuyPC - Reverse Engineer | Bug Hunter | Pentester profile.
+HuyPC - Reverse Engineer | Bug Hunter | Pentester
 
-Here are some ideas to get you started:
+> system.status
+[■■■■■■■■■■■■■■■■■■■■■■■] 100% 
+Status: Online | Undetected
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> accessing.darknet...
+Connection established ✓
+Identity: Anonymous

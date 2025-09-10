@@ -1,16 +1,14 @@
-<!-- 🚀 GitHub Profile - HuyPc01 -->
+<!-- 🚀 GitHub Profile - Dark Hacker Style -->
 
-<h1 align="center">🌑 HuyPC | Cyber Explorer</h1>
-<p align="center">
-  <em>"Even in darkness, I move silently..."</em>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=👾+HuyPC+%7C+Cyber+Explorer;Reverse+Engineer+%7C+Bug+Hunter+%7C+Pentester;In+Code+We+Trust.+In+Silence+We+Move." alt="Typing SVG" />
+</h1>
 
 ---
 
-### 🖥️ Dark Background
+### 🖥️ Matrix Background
 <p align="center">
-  <!-- GIF nền Itachi đen tối -->
-  <img src="https://i.imgur.com/bU6xXYt.gif" width="100%" alt="itachi background"/>
+  <img src="https://i.gifer.com/7VE.gif" width="800" />
 </p>
 
 ---
@@ -41,9 +39,9 @@
 HuyPC - Reverse Engineer | Bug Hunter | Pentester
 
 > system.status
-███████████████████████████ 100%
+[■■■■■■■■■■■■■■■■■■■■■■■] 100% 
 Status: Online | Undetected
 
-> activating.sharingan...
-[✔] Mangekyō Sharingan unleashed
-[✔] Illusions deployed
+> accessing.darknet...
+Connection established ✓
+Identity: Anonymous
